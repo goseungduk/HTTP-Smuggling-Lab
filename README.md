@@ -25,5 +25,7 @@ Please make sure to update tests as appropriate.
 
 Thanks to @regilero and mengchen@Knownsec 404 Team.
 
+https://paper.seebug.org/1049/
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
